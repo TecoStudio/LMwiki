@@ -5,6 +5,8 @@
   "commands": "👉 命令",
   "permissions": "👩‍⚖️ 权限",
   "faq": "🙋‍♂️ 常见问题解答",
+  "settings": "🔧 设置 (settings.yml)",
+  "rules": "📃 规则 (rules.yml)",
   "english": {
     "title":"英语WIKI ↗",
     "type": "page",
