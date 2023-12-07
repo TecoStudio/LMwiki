@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/arcaneplugins-752310043214479462',
   },
-  docsRepositoryBase: 'https://github.com',
+  docsRepositoryBase: 'https://github.com/TecoStudio/LMwiki',
   footer: {
     text: 'Last Update: Dec. 07, 2023. Translated By TecoStudio.',
   },

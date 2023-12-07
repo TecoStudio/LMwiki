@@ -1,9 +1,10 @@
 {
   "index": "📜主页",
-  "compatibilities": "🚥兼容性",
-  "installation": "🔌安装",
+  "Compatibilities": "🚥兼容性",
+  "Installation": "🔌安装",
+  "Commands": "👉 命令",
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系 ↗",
     "type": "page",
     "href": "https://discord.gg/GGk9eCFR5s",
     "newWindow": true
