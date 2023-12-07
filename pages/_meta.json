@@ -1,0 +1,11 @@
+{
+  "index": "📜主页",
+  "compatibilities": "🚥兼容性",
+  "installation": "🔌安装",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://discord.gg/GGk9eCFR5s",
+    "newWindow": true
+  }
+}
