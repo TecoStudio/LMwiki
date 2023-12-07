@@ -1,10 +1,10 @@
 {
   "index": "📜主页",
-  "Compatibilities": "🚥兼容性",
-  "Installation": "🔌安装",
-  "Commands": "👉 命令",
-  "Permissions": "👩‍⚖️ 权限",
-  "Frequently-Asked-Questions": "🙋‍♂️ 常见问题解答",
+  "compatibilities": "🚥兼容性",
+  "installation": "🔌安装",
+  "commands": "👉 命令",
+  "permissions": "👩‍⚖️ 权限",
+  "faq": "🙋‍♂️ 常见问题解答",
   "contact": {
     "title": "联系 ↗",
     "type": "page",
