@@ -27,4 +27,4 @@
     - 请检查`_meta.json`文件是否正确编辑，及文件名是否正确。
     - 同时检查github的文件名
 
-[网站模板](https://github.com/shuding/nextra-docs-template) MIT LISENCE Copyright (c) 2022 Shu Ding
+[网站模板](https://github.com/shuding/nextra-docs-template) MIT LICENSE, Copyright (c) 2022 Shu Ding
