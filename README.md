@@ -26,3 +26,5 @@
 2. commit之后发现网页左侧目录出现重复内容（英文的文件没有对应中文的内容）？
     - 请检查`_meta.json`文件是否正确编辑，及文件名是否正确。
     - 同时检查github的文件名
+
+[网站模板](https://github.com/shuding/nextra-docs-template) MIT LISENCE Copyright (c) 2022 Shu Ding
