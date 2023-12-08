@@ -19,6 +19,7 @@
 
 ### FAQ
 1. commit之后发现网页没有更新？
+    - 请等待30秒至1分钟，若还没有更新
     - 有俩种情况，1. 是vercel抽风导致。2. 代码出现问题导致vercel无法按照最新的commit部署网页。
     - 请找Valor（JianyueHugo）寻求帮助
 
