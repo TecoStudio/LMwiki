@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/TecoStudio/LMwiki',
   footer: {
-    text: 'Last Update: Dec. 07, 2023. Translated By TecoStudio. All Rights Reserved.',
+    text: 'Last Update: Dec. 07, 2023. Copyright (c) 2023 TecoStudio. This document is licensed under GNU GPL v3.',
   },
 }
 
