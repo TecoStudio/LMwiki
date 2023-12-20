@@ -1,0 +1,36 @@
+{
+  "index": "📜主页",
+  "compatibilities": "🚥兼容性",
+  "installation": "🔌安装",
+  "commands": "👉 命令",
+  "permissions": "👩‍⚖️ 权限",
+  "faq": "🙋‍♂️ 常见问题解答",
+  "settings": "🔧 设置 (settings.yml)",
+  "rules": "📃 规则 (rules.yml)",
+  "custom-drops": "⚔ 自定义掉落 (customdrops.yml)",
+  "message": "💬 信息 (messages.yml)",
+  "official-translation": "🎌 官方配置翻译",
+  "unofficial-translation": "🎌 非官方配置翻译",
+  "how-to-video": "👀 配置教程视频",
+  "placeholders": "🔖 占位符",
+  "developer": "👩‍💻 对于开发人员",
+  "extra": "📃 其他信息",
+  "javadocs": {
+    "title": "Java 文档 ↗",
+    "type": "page",
+    "href": "https://arcaneplugins.github.io/LevelledMobs/",
+    "newWindow": true
+  },
+  "english": {
+    "title":"英语WIKI ↗",
+    "type": "page",
+    "href": "https://github.com/ArcanePlugins/LevelledMobs/wiki",
+    "newWindow": true
+  },
+  "repo": {
+    "title": "文档 REPO ↗",
+    "type": "page",
+    "href": "https://github.com/TecoStudio/LMwiki",
+    "newWindow": true
+  }
+}
