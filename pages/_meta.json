@@ -1,3 +1,21 @@
 {
-    "levelledmobs": "LevelledMobs"
+    "levelledmobs": "LevelledMobs",
+    "javadocs": {
+        "title": "Java 文档 ↗",
+        "type": "page",
+        "href": "https://arcaneplugins.github.io/LevelledMobs/",
+        "newWindow": true
+      },
+      "english": {
+        "title":"英语WIKI ↗",
+        "type": "page",
+        "href": "https://github.com/ArcanePlugins/LevelledMobs/wiki",
+        "newWindow": true
+      },
+      "repo": {
+        "title": "文档 REPO ↗",
+        "type": "page",
+        "href": "https://github.com/TecoStudio/LMwiki",
+        "newWindow": true
+      }
 }
