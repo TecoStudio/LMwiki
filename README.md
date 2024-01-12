@@ -1,3 +1,5 @@
+# 本仓库为第一代TecoStudio Docs已经废弃 [最新Docs网站链接](https://docs.tecostudio.cn)
+
 **[网站模板 Template of Website](https://github.com/shuding/nextra-docs-template) MIT LICENSE, Copyright (c) 2022 Shu Ding.**
 
 **Copyright (c) 2023 TecoStudio. This document/wiki  is licensed under GNU GPL v3.**
